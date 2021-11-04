@@ -12,4 +12,4 @@ Libgdx, java library for develop games (1 year of experience)
 
 Java 8 (2 year of experience)
 
-Unity (2 month)
+Unity (3 month)
