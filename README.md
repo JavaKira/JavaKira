@@ -1,15 +1,30 @@
-### Hi there, i Java junior programmer 👋
+## Hi there, i Java junior programmer 👋
+
+### Description
+Vlad, 15 years old, start programming java at 2020-06-30, i write to many code, counting my game (JavaKira/Ryzik) what takes me more that about 2 years.
+
+at current time i learning Java EE and prepare for serious work :3
+
+in plans and dreams, work at 16 years old Java EE Developer.
+
+### Funny facts
 
 love cats and Java 😄
 
-at 14 year old i programming more that 3 years 😳
+at 15 year old i programming more that 4 years 😳
 
 know how cheer up the team 😎👍
 
-#### Technologies
+### Stack
 
-Libgdx, java library for develop games (1 year of experience)
+* Java (about 2 years exp)
+  * Core
+  * Stream API
+  * Lambda
+  * Collections
+  * Spring Framework
 
-Java 8 (2 year of experience)
+* SQL
+  * PostgreSQL
 
-Unity (4 month)
+standart front-end stack - HTML, CSS, JS
