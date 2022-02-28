@@ -19,8 +19,8 @@ know how cheer up the team 😎👍
 
 * Java (about 2 years exp)
   * Core
-  * Streams API
-  * Lambda
+  * Stream API
+  * Lambdas
   * Collections
   * Spring Framework
 
