@@ -1,8 +1,15 @@
-## Hi there, I Java Android developer and absolute entrepreneur👋
+## Привет, я Краснодарский Java backend разработчик 👋
 
-### Description
-My name is Vlad, also known as Javapedik or Javakira. I am 16 years old. I started programming in Java at 2020-06-30 writing games, then web sites and finaly I develop Android applications.
+Специализируюсь на разработке Spring Boot приложений, их интеграции (включая CI/CD) и работу на хостинге.
 
-My ambition is to create a company, what can systematize learing, internship, relationship and customized and outsourcing development in Russia.
+Владею Английским на уровне B1
 
-Currently I am working to my portfolio and competitions. I preparing for fisrt step of my deal on freelance.
+### Мой стек
+- Java 22, Java Core, структуры данных, алгоритмы, ООП, АОП, Java EE (Servlets);
+- IDE: Intellij idea;
+- SQL, PostgreSQL;
+- Системы сборки: Gradle
+- Spring: Boot, Data, Security, JPA, MVC, WebFlux;
+- Design Patterns: Adapter, State, Visitor, Strategy and bla-bla-bla;
+- Git, CI/CD;
+- Документация: OpenAPI, JavaDoc
