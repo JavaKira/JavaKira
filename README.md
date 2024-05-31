@@ -13,3 +13,9 @@
 - Design Patterns: Adapter, State, Visitor, Strategy and bla-bla-bla;
 - Git, CI/CD;
 - Документация: OpenAPI, JavaDoc
+
+Буду рад если пригласишь меня на хакатон или работу :3
+
+Ознакомиться с моими проектами можно в закрепленных репозиториях
+
+↓	↓	↓	↓	↓	↓	↓	↓	↓	↓	↓	↓	↓	↓	↓	
