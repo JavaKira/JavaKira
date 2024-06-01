@@ -11,7 +11,7 @@
 - Системы сборки: Gradle
 - Spring: Boot, Data, Security, JPA, MVC, WebFlux;
 - Design Patterns: Adapter, State, Visitor, Strategy and bla-bla-bla;
-- Git, CI/CD;
+- Git, CI/CD; Работаю с Git Flow, делаю не пуш в мейн ветку, а пул реквест :3
 - Grafana
 - Junit, e2e тестирование (не люблю писать тесты сразу скажу)
 - Документация: OpenAPI (swagger), JavaDoc
