@@ -1,22 +1,37 @@
-## Привет, меня зовут Влад и я Краснодарский Java backend разработчик 👋
+## Привет, я Владислав
 
-Специализируюсь на разработке Spring Boot приложений.
+Мне 20 лет. Краснодарский Java backend разработчик. Специализируюсь на разработке Spring Boot приложений и проектировании архитектуры.
 
 Владею Английским на уровне B1
 
-### Мой стек
-- Java 22, Java EE (Servlets), Java Core, структуры данных, алгоритмы, ООП
-- Spring Framework: Spring Boot, Data, Security, JPA, MVC, WebFlux
-- Design Patterns: Adapter, State, Visitor, Strategy and bla-bla-bla;
-- Git, Работаю с Git Flow, делаю не пуш в мейн ветку, а пул реквест :3
-- DevOps: Github CI/CD, Docker, Docker Compose
-- Junit, Jmock, e2e тестирование, Grafana
-- Документация: OpenAPI (swagger), JavaDoc
-- IDE: Intellij Idea Ultimate
-- SQL, PostgreSQL
-- Kafka, RabbitMQ
-- Gradle
-- Lombok
+### Алгоритмы и соревнования
+Участник алгоритмических контестов от T-Education и Яндекс
+
+ВОЛГА ИТ 2023 разработка WebAPI — [ссылка на репозиторий](https://github.com/JavaKira/Simbir)
+
+ВОЛГА ИТ 2024 разработка WebAPI — [ссылка на репозиторий](https://github.com/JavaKira/SimbirHealth)
+
+### Архитектура и проектирование
+Проектирую приложения с разделением по доменам, применяю подходы:
+* DDD (Domain-Driven Design)
+* Гексагональная архитектура
+* Чистая архитектура
+* MVP, MVVM, MVC
+
+Есть опыт построения архитектуры приложений с нуля и рефакторинга существующих решений под слабую связанность и тестируемость.
+
+### Стек
+* Java 22
+* Spring Framework: Spring Boot, Data, Security, JPA, MVC, WebFlux
+* Git, Git Flow, Pull Requests
+* GitHub CI/CD, Docker, Docker Compose
+* SQL, PostgreSQL
+* Gradle
+* Lombok
+* JUnit, JMock, e2e тестирование
+* Grafana
+* OpenAPI (Swagger), JavaDoc
+* IntelliJ IDEA Ultimate
 
 Буду рад если пригласишь меня на хакатон, стажировку или работу :3
 
