@@ -1,37 +1,41 @@
 ## Привет, я Владислав
 
-Краснодарский Java backend разработчик. Разрабатываю backend-сервисы на Spring Boot: от проектирования архитектуры до деплоя.
+Краснодарский Java backend-разработчик.  
+Разрабатываю backend-сервисы на Spring Boot: от проектирования до деплоя.
 
-Владею английским на уровне B1
+Владею английским на уровне B1.
 
 ### Алгоритмы и соревнования
-Участник алгоритмических контестов от T-Education и Яндекс
 
-ВОЛГА ИТ 2023 разработка WebAPI. Разработал по ТЗ API для шейринга (аренды) транспорта. Финалист, 3 место. — [ссылка на репозиторий](https://github.com/JavaKira/Simbir)
+Участник алгоритмических контестов от Т-Образование и Яндекс.
 
-ВОЛГА ИТ 2024 разработка WebAPI. HealthTech. Разработал по ТЗ API для клиник: управление записями, учет врачей и их расписания, электронные мед. карточки пациентов. Финалист, 4 место. — [ссылка на репозиторий](https://github.com/JavaKira/SimbirHealth)
+- **ВОЛГА ИТ 2023** (Backend WebAPI) — финалист, 3 место.  
+  API сервиса аренды транспорта.  
+  [Репозиторий](https://github.com/JavaKira/Simbir)
 
-### Архитектура и проектирование
-Проектирую приложения с разделением по доменам, применяю подходы:
-* DDD (Domain-Driven Design)
-* Гексагональная архитектура
-* Чистая архитектура
-* MVP, MVVM, MVC
+- **ВОЛГА ИТ 2024** (Backend WebAPI, HealthTech) — финалист, 4 место.  
+  API для клиник: управление записями, расписанием врачей и электронными медкартами.  
+  [Репозиторий](https://github.com/JavaKira/SimbirHealth)
 
-Есть опыт построения архитектуры приложений с нуля и рефакторинга существующих решений под слабую связанность и тестируемость.
+### Pet-проекты
+
+- **DocumentCLI** — CLI-утилита для управления домашним архивом документов (поиск, дела, генерация выписок).  
+  Стек: Java, picocli.  
+  [Репозиторий]([ссылка](https://github.com/JavaKira/DocumentCLI)
+
+- **RucScheduleAPI + RucTelegram** — парсер расписания университета + бот.  
+  Стек: Java; Spring Boot, WebFlux, JPA; TelegramBots (Telegram API).
+  [RucScheduleAPI](https://github.com/JavaKira/RucScheduleAPI) · [RucTelegram](https://github.com/JavaKira/RucTelegram)
 
 ### Стек
-* Язык и фреймворки: Java 22, Spring Boot, Data, Security, JPA, MVC, WebFlux
-* Инфраструктура: Git, Git Flow, GitHub CI/CD, Docker, Docker Compose
-* Данные: SQL, PostgreSQL, Kafka, RabbitMQ
-* Тестирование: JUnit, JMock, e2e, Grafana
-* Документация: OpenAPI (Swagger), JavaDoc
 
-Открыт к стажировкам, хакатонам и junior-позициям в backend-разработке. Интересны проекты с продуманной архитектурой и сложной логикой.
+- **Язык и фреймворки:** Java 22, Spring Boot (Data, Security, JPA, MVC, WebFlux)
+- **Инфраструктура:** Git, GitHub Actions, Docker, Docker Compose
+- **Данные:** SQL, PostgreSQL, Kafka, RabbitMQ
+- **Тестирование:** JUnit, Mockito
+- **Документация:** OpenAPI (Swagger)
 
-Telegram: @vcodetsev
+Открыт к стажировкам и junior-позициям в backend-разработке.
+
+Telegram: [@vcodetsev](https://t.me/vcodetsev)  
 Email: javakira@yandex.ru
-
-Ознакомиться с моими проектами можно в закрепленных репозиториях
-
-↓	↓	↓	↓	↓	↓	↓	↓	↓	↓	↓	↓	↓	↓	↓	
