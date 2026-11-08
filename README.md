@@ -21,11 +21,11 @@
 
 - **DocumentCLI** — CLI-утилита для управления домашним архивом документов (поиск, дела, генерация выписок).  
   Стек: Java, picocli.  
-  [Репозиторий]([ссылка](https://github.com/JavaKira/DocumentCLI)
+  [Репозиторий](https://github.com/JavaKira/DocumentCLI)
 
 - **RucScheduleAPI + RucTelegram** — парсер расписания университета + бот.  
   Стек: Java; Spring Boot, WebFlux, JPA; TelegramBots (Telegram API).
-  [RucScheduleAPI](https://github.com/JavaKira/RucScheduleAPI) · [RucTelegram](https://github.com/JavaKira/RucTelegram)
+  [Репозиторий RucScheduleAPI](https://github.com/JavaKira/RucScheduleAPI) · [Репозиторий RucTelegram](https://github.com/JavaKira/RucTelegram)
 
 ### Стек
 
